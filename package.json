@@ -1,0 +1,15 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "playmusic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bdyo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.5.1",
+    "ytdl-core": "0.20.1"
+  }
+}
